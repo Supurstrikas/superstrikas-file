@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: superstrikas-file
+  annotations:
+    github.com/project-slug: Supurstrikas/superstrikas-file
+spec:
+  type: other
+  lifecycle: unknown
+  owner: harshu
